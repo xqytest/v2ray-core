@@ -80,6 +80,7 @@ jobs:
             goarch: arm64
           - goos: android
             goarch: arm
+            goarm: 7
           - goos: freebsd
             goarch: arm64
           - goos: openbsd
